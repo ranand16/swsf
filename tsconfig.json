@@ -1,5 +1,8 @@
 {
-  "compilerOptions": {  
-    "jsx": "react-jsx",
-  }
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "build",
+        "jsx": "react-jsx",
+        "esModuleInterop": true
+    }
 }
